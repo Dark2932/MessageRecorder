@@ -1,0 +1,5 @@
+name: MessageRecorder
+version: '${project.version}'
+main: wheatpaper.dark2932.messagerecorder.MessageRecorder
+authors: [ Dark2932 ]
+description: Record player's message.
